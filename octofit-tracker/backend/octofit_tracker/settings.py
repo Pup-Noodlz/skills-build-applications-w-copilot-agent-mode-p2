@@ -26,7 +26,7 @@ SECRET_KEY = "django-insecure-4mfiicvesr+!%ol-!ug7o(owuh1fvs=0^z$dkfcvnnlr2n9(4l
 DEBUG = True
 
 # Allow all hosts
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['zany-tribble-94q6wr9w4j6h7p7v-8000.app.github.dev', 'localhost']
 
 
 # Application definition
